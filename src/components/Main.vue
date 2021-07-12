@@ -2,7 +2,7 @@
     
     <div class="sfondo">
         <div class="container">
-            <div>--> Content goes here</div>
+            <div>Content goes here</div>
         </div>
     </div>
 
@@ -25,7 +25,7 @@ export default {
         height: 100px;
 
         div {
-            padding-top: 10px;
+            padding-top: 20px;
         }
     }
 }
